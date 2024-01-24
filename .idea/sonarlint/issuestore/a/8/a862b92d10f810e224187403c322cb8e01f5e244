@@ -1,0 +1,34 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÓ³Ìûÿÿÿÿ8¨¥ÀâÓ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º›°ù8¨¥ÀâÓ1
+v
+java:S1104"TMake diamBaka a static final constant or non-public and provide accessors if needed.(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+x
+java:S1104"VMake visotaBaka a static final constant or non-public and provide accessors if needed.(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+w
+java:S1104"UMake plotnosty a static final constant or non-public and provide accessors if needed.(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+u
+java:S1104"SMake vyzkozt a static final constant or non-public and provide accessors if needed.(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+z
+java:S1104"XMake radiuspokryt a static final constant or non-public and provide accessors if needed.(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+P
+java:S1444".Make this "public static diamBaka" field final(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+R
+java:S1444"0Make this "public static visotaBaka" field final(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+Q
+java:S1444"/Make this "public static plotnosty" field final(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+O
+java:S1444"-Make this "public static vyzkozt" field final(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+T
+java:S1444"2Make this "public static radiuspokryt" field final(İèÇ€şÿÿÿÿ8©¥ÀâÓ1
+7
+java:S1220""Move this file to a named package.8©¥ÀâÓ1
+i
+java:S1659"GDeclare "visotaBaka" and all following declarations on a separate line.(İèÇ€şÿÿÿÿ8²¥ÀâÓ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8·¥ÀâÓ1
+G	java:S106"+Replace this use of System.out by a logger.(â´Õò8¹¥ÀâÓ1
+O
+java:S6126"2Replace this String concatenation with Text block.(â´Õò8¹¥ÀâÓ1
+L	java:S106"+Replace this use of System.out by a logger.(Šİ®³ÿÿÿÿÿ8º¥ÀâÓ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8º¥ÀâÓ1

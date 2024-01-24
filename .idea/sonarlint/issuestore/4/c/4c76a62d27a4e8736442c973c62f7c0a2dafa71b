@@ -1,0 +1,19 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(¨Âèž
+C
+java:S1604P"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+X
+java:S18544"=Remove this useless assignment to local variable "viscosity".(Ó†®Žøÿÿÿÿ
+I
+java:S14814".Remove this unused "viscosity" local variable.(Ó†®Žøÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(„ãŠð
+?	java:S106H"+Replace this use of System.out by a logger.(Ùµµ
+E	java:S106I"+Replace this use of System.out by a logger.(ÈØÜ©üÿÿÿÿ
+?	java:S106J"+Replace this use of System.out by a logger.(ÿãö
+@	java:S106K"+Replace this use of System.out by a logger.(Í¥›Á
+?	java:S106L"+Replace this use of System.out by a logger.(©ˆõr
